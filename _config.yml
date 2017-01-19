@@ -14,7 +14,7 @@ location: Boston, MA
 company: MIT Operations Research Center
 company_url: http://orc.mit.edu/
 github_url: https://github.com/colin78
-description: description_of_your_web_site
+description: description
 favicon: favicon.png # Image must be in assets/images
 repository: colin78/colin78.github.io
 
