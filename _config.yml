@@ -71,9 +71,9 @@ navs:
     href: /research
     label: Research
 
-  -
-    href: /bookmark
-    label: Bookmark
+  # -
+  #   href: /bookmark
+  #   label: Bookmark
 
   -
     href: /about
