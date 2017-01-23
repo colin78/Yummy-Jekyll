@@ -1,18 +1,23 @@
 ---
 layout: post
 title: Research
-subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; Papers - Presentations
+subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; Publications - Presentations - Teaching
 menu: Bookmark
 no-post-nav: true
 ---
 
-## Machine Learning
-- [Dom4j](https://dom4j.github.io/) - Flexible XML framework
-- [Gson](https://github.com/google/gson) - Google Library to support JSON
-- [Xstream](http://x-stream.github.io/index.html) -  Serialize objects to XML and back again
-- [JAXB](https://jaxb.java.net/) - Java Architecture for XML Binding
+## Publications
+- D. Bertsimas, C. Pawlowski, Y. Zhuo. "From predictive methods to missing data imputation: an optimization framework". (In Preparation), 2016.
+- D. Bertsimas, J. Dunn, C. Pawlowski, Y. Zhuo. "Robust Classification".  (In Revision), 2016.
 
-## Healthcare Analytics
-- [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images
-- [greenDAO](http://greendao-orm.com/) - greenDAO is a light and fast ORM solution that maps objects to SQLite databases
-- [EventBus](http://greenrobot.github.io/EventBus/) - Android optimized event bus that simplifies communication
+## Presentations
+- "Missing Data Imputation via a Modern Optimization Lens." [INFORMS 2016](http://www.abstractsonline.com/pp8/#!/4182/presentation/7104)
+- "Robust Support Vector Machines." [INFORMS 2015](https://informs.emeetingsonline.com/emeetings/formbuilder/clustersessiondtl.asp?csnno=24168&mmnno=272&ppnno=90513)
+- "Novel Properties of Deterministic and Stochastic SIR Models." [JMM 2014](http://jointmathematicsmeetings.org/amsmtgs/2160_abstracts/1096-vg-2688.pdf)
+
+## Teaching
+- Instructor for "Computing in Optimization and Statistics" (15.S60) at [MIT Sloan School of Management](http://mitsloan.mit.edu/), January 2017. [Course Website](https://philchodrow.github.io/cos_2017/)
+    - Topic of my segment: *Statistical Modeling and Machine Learning in R*
+    - Prepared materials: [Live coding session notes](https://philchodrow.github.io/cos_2017/3_modeling_and_ml/script_2_complete.html), slides on [Machine Learning](https://philchodrow.github.io/cos_2017/3_modeling_and_ml/Machine%20Learning.pdf) and [Natural Language Processing](https://philchodrow.github.io/cos_2017/3_modeling_and_ml/Natural%20Language%20Processing.pdf)
+     
+- Teaching Assistant for MBA core course: "Data, Models, and Decisions" (15.060) at [MIT Sloan School of Management](http://mitsloan.mit.edu/), Fall 2015. [Syllabus]()
