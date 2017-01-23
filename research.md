@@ -20,4 +20,4 @@ no-post-nav: true
     - Topic of my segment: *Statistical Modeling and Machine Learning in R*
     - Prepared materials: [Live coding session notes](https://colin78.github.io/assets/files/script_2_complete.html), slides on [Machine Learning](https://colin78.github.io/assets/files/Machine%20Learning.pdf) and [Natural Language Processing](https://colin78.github.io/assets/files/Natural%20Language%20Processing.pdf)
      
-- Teaching Assistant for MBA core course: "Data, Models, and Decisions" (15.060) at [MIT Sloan School of Management](http://mitsloan.mit.edu/), Fall 2015. [Syllabus]()
+- Teaching Assistant for MBA core course: "Data, Models, and Decisions" (15.060) at [MIT Sloan School of Management](http://mitsloan.mit.edu/), Fall 2015. [Syllabus](https://colin78.github.io/assets/files/Syllabus-15060-Fall-2015-version-1.2.pdf)
