@@ -16,8 +16,10 @@ no-post-nav: true
 - "Novel Properties of Deterministic and Stochastic SIR Models." [JMM 2014](http://jointmathematicsmeetings.org/amsmtgs/2160_abstracts/1096-vg-2688.pdf)
 
 ## Teaching
+- Teaching Assistant for "The Analytics Edge" (15.060) at [MIT Sloan School of Management](http://mitsloan.mit.edu/), Spring 2017. [Syllabus](https://colin78.github.io/assets/files/Syllabus-15071-Spring2017-template2.pdf)
 - Instructor for "Computing in Optimization and Statistics" (15.S60) at [MIT Sloan School of Management](http://mitsloan.mit.edu/), January 2017. [Course Website](https://philchodrow.github.io/cos_2017/)
     - Topic of my segment: *Statistical Modeling and Machine Learning in R*
     - Prepared materials: [Live coding session notes](https://colin78.github.io/assets/files/script_2_complete.html), slides on [Machine Learning](https://colin78.github.io/assets/files/Machine%20Learning.pdf) and [Natural Language Processing](https://colin78.github.io/assets/files/Natural%20Language%20Processing.pdf)
      
 - Teaching Assistant for MBA core course: "Data, Models, and Decisions" (15.060) at [MIT Sloan School of Management](http://mitsloan.mit.edu/), Fall 2015. [Syllabus](https://colin78.github.io/assets/files/Syllabus-15060-Fall-2015.pdf)
+    - Taught weekly recitations, developed course materials, worked one-on-one with students, graded assignments.
