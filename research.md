@@ -18,6 +18,6 @@ no-post-nav: true
 ## Teaching
 - Instructor for "Computing in Optimization and Statistics" (15.S60) at [MIT Sloan School of Management](http://mitsloan.mit.edu/), January 2017. [Course Website](https://philchodrow.github.io/cos_2017/)
     - Topic of my segment: *Statistical Modeling and Machine Learning in R*
-    - Prepared materials: [Live coding session notes](https://colinpawlowski.com/assets/files/3_modeling_and_ml/script_2_complete.html), slides on [Machine Learning](https://philchodrow.github.io/cos_2017/3_modeling_and_ml/Machine%20Learning.pdf) and [Natural Language Processing](https://philchodrow.github.io/cos_2017/3_modeling_and_ml/Natural%20Language%20Processing.pdf)
+    - Prepared materials: [Live coding session notes](https://colin78.github.io/assets/files/script_2_complete.html), slides on [Machine Learning](https://colin78.github.io/assets/files/Machine%20Learning.pdf) and [Natural Language Processing](https://colin78.github.io/assets/files/Natural%20Language%20Processing.pdf)
      
 - Teaching Assistant for MBA core course: "Data, Models, and Decisions" (15.060) at [MIT Sloan School of Management](http://mitsloan.mit.edu/), Fall 2015. [Syllabus]()
