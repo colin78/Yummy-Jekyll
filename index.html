@@ -8,11 +8,9 @@ css: ['index.css', 'sidebar-popular-repo.css']
         <h1>{{ site.title }}</h1>
         <div id="jumbotron-meta-info">
             {% if site.location %}
-            <span class="meta-info hvr-grow">
+            <span class="meta-info">
                 <span class="octicon octicon-location"></span>
-                <a href="https://www.google.com/maps/place/Boston,+MA/@42.3590624,-71.0874548,14z/data=!4m5!3m4!1s0x89e3652d0d3d311b:0x787cbf240162e8a0!8m2!3d42.3600825!4d-71.0588801">
                 {{ site.location }}
-                </a>
             </span> {% endif %}
             {% if site.company %}
             <span class="meta-info hvr-grow">
