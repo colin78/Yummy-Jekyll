@@ -14,8 +14,8 @@ company: MIT Operations Research Center
 company_url: http://orc.mit.edu/
 github_url: https://github.com/colin78
 description: description
-favicon_bw: standing_2.jpg
-favicon: standing_2.jpg # Image must be in assets/images
+favicon_bw: standing_2_icon.png
+favicon: standing_2_icon.png # Image must be in assets/images
 repository: colin78/colin78.github.io
 
 # The base hostname & protocol for your site
