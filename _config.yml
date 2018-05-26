@@ -15,7 +15,7 @@ company_url: http://orc.mit.edu/
 github_url: https://github.com/colin78
 description: description
 favicon_bw: logo_shadow_bw.jpg
-favicon: icon_shadow.ico # Image must be in assets/images
+favicon: standing_2.jpg # Image must be in assets/images
 repository: colin78/colin78.github.io
 
 # The base hostname & protocol for your site
