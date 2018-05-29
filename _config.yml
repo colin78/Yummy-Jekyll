@@ -80,6 +80,10 @@ navs:
     href: /about
     label: About
 
+  -
+    href: /assets/files/Pawlowski_resume_16.pdf
+    label: CV
+
 # Sidebar to show popular repo
 side_bar_repo_limit: 5 # Number of repos to show
 

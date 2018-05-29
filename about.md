@@ -3,15 +3,8 @@ layout: page
 title: About Me
 menu: about
 subtitle:   <!-- <h3>Download My CV</h3> -->
-            <a role="button" class="btn btn-primary hvr-grow-shadow" href="/assets/files/Pawlowski_resume_16.pdf" target="_blanks">
-                <!-- <span class="flag-icon flag-icon-us"></span> English -->
-                Download My CV
-            </a>
             <!-- <a role="button" class="btn btn-primary hvr-grow-shadow" href="/assets/files/Pawlowski_resume_16.pdf" target="_blanks">
-                <span class="flag-icon flag-icon-gb"></span> English
-            </a>
-            <a role="button" class="btn btn-primary hvr-grow-shadow" href="/assets/files/CV_Chuan_Dong_FR.pdf" target="_blanks">
-                <span class="flag-icon flag-icon-cn"></span> 中文
+                Download My CV
             </a> -->
                             
 css: ['about.css', 'sidebar-popular-repo.css', '../../bower_components/flag-icon-css/css/flag-icon.min.css']
