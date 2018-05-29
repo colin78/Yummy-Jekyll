@@ -7,8 +7,9 @@ no-post-nav: true
 ---
 
 ## Publications
-- D. Bertsimas, C. Pawlowski, Y. Zhuo. "From predictive methods to missing data imputation: an optimization framework". (In Preparation), 2016.
-- D. Bertsimas, J. Dunn, C. Pawlowski, Y. Zhuo. "Robust Classification".  (In Revision), 2016.
+- D. Bertsimas, C. Pawlowski, Y. Zhuo. <a href="https://colin78.github.io/assets/files/OptImpute.pdf" target="_blank">"From predictive methods to missing data imputation: an optimization framework".</a>
+To appear in JMLR, 2018.
+- D. Bertsimas, J. Dunn, C. Pawlowski, Y. Zhuo. <a href="https://colin78.github.io/assets/files/RobustClassification.pdf." target="_blank">"Robust Classification".</a>  To appear in IJOO, 2018.
 
 ## Presentations
 - "Missing Data Imputation via a Modern Optimization Lens." <a href="http://www.abstractsonline.com/pp8/#!/4182/presentation/7104" target="_blank">INFORMS 2016</a>
