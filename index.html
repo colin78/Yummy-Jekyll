@@ -3,10 +3,11 @@ layout: homepage
 menu: home
 css: ['index.css', 'sidebar-popular-repo.css']
 ---
-<section class="jumbotron">
+<!-- <section class="jumbotron" style="background-image: url(assets/images/charles-river-main.jpg); width=100%; background-size: cover;"> -->
+<section class="jumbotron" style="background-image: url(assets/images/charles-river-main.jpg); width=100%; background-size: cover; opacity: 0.5">
     <div class="container">
-        <h1>{{ site.title }}</h1>
-        <div id="jumbotron-meta-info">
+        <h1> </h1>
+        <div id="jumbotron-meta-info" id="div-with-bg">
             {% if site.location %}
             <span class="meta-info">
                 <span class="octicon octicon-location"></span>
@@ -26,27 +27,8 @@ css: ['index.css', 'sidebar-popular-repo.css']
     </div>
 </section>
 <section class="content container">
-    <table style="width:100%">
-    <tbody>
-    <tr>
-    <td>
-    <!-- <a href="http://web.mit.edu/"> -->
-    <img src="assets/images/MIT_logo.svg" style="height:100px;">
-    <!-- </a> -->
-    </td>
-    <td align="center">
-    <!-- <a href="http://orc.mit.edu/"> -->
-    <img src="assets/images/ORC_logo_horizontal.png" style="height:100px;">
-    <!-- </a> -->
-    </td>
-    <td align="right">
-    <!-- <a href="http://mitsloan.mit.edu/"> -->
-    <img src="assets/images/MITSloanLogo_MASTER_Web.jpg" style="height:100px;">
-    <!-- </a> -->
-    </td>
-    </tr>
-    </tbody>
-    </table>
+<img src="assets/images/ORC_logo_horizontal.png" style="height:100px;">
+<img src="assets/images/MITSloanLogo_MASTER_Web.jpg" style="height:100px;">
 
 </section>
 

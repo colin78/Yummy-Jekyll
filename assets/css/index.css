@@ -32,3 +32,8 @@
 .site-header.site-header-nav-scrolled a:hover {
     color: #4183c4;
 }
+
+#div-with-bg
+{
+    background-image: url(assets/images/charles-river-main.jpg);
+}
