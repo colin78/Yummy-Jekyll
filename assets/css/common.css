@@ -177,3 +177,8 @@
 .sidebar-title {
     text-align: center;
 }
+
+#div-with-bg
+{
+    background: color url('assets/images/charles-river-main.jpg') others;
+}
