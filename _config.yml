@@ -69,10 +69,6 @@ navs:
     label: Research
 
   -
-    href: /about
-    label: About
-
-  -
     href: /assets/files/Pawlowski_resume_17.pdf
     label: CV
 

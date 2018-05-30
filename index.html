@@ -26,9 +26,126 @@ css: ['index.css', 'sidebar-popular-repo.css']
         </div>
     </div>
 </section>
-<section class="content container">
-<img src="assets/images/ORC_logo_horizontal.png" style="height:100px;">
-<img src="assets/images/MITSloanLogo_MASTER_Web.jpg" style="height:100px;">
 
-</section>
+<div class="about row"  style="margin-left:45px; width:90%;">
+
+    <div class="col-md-8">
+
+        <h2>Short Bio</h2>
+        <p>I am a 4th year PhD candidate at the MIT Operations Research Center advised by <a href="http://www.mit.edu/~dbertsim/">Dimitris Bertsimas</a>.  My research is on machine learning with applications to healthcare analytics.  Working closely with a team of fellow doctoral students, I have developed fast, tractable algorithms in machine learning for statistical inference using tools from optimization, with a focus on SVMs for classification, k-means clustering, and missing data imputation.  Currently, I am collaborating with two oncologists from Dana Farber Cancer Institute to develop personalized healthcare recommendations to improve patient outcomes. I also enjoy being a TA for students at the MIT Sloan School of Management.</p>
+
+        <p>Before coming to the ORC, I completed an REU at Mt Holyoke College focused on an mathematical modeling and epidemiology.  Our group developed a population-level model for tuberculosis in the USA and analyzed the cost effectiveness of several intervention strategies, such as providing foriegn aid to targeted countries.  This experience is what sparked my interest in operations research.  I enjoy working on practical problems which give rise to challenging mathematical problems.</p>
+
+        <p>As an undergraduate, I participated in several extracurriculars including the Yale Drop Team (microgravity research group).  Working with a NASA biologist and two Yale Physics professors, our student team designed an automated apparatus to grow 3-Dimensional tissue cultures in zero-gravity.  Our proposal to build a 3-D cell culture apparatus was accepted by the NASA Flight Opportunities Program in October 2011.  In May 2012, our team completed experiments aboard NASA's Zero-G aircraft; <a href="https://www.youtube.com/watch?v=5X5nN7A7Ia0">here is footage</a> of weightlessness during one of the flights.
+        </p>
+        <p>Outside of work and school, I have also been a volunteer at The Full Belly Project, a non-profit engineering group that invents and distributes low-cost agricultural tools for use in developing countries.  In the summer of 2012, I travelled to Guatemala to test out a UV scanner that screen for aflatoxins in peanuts; you can check out my travel blog <a href="http://fightingaspergillus.blogspot.com/">here</a>.</p>
+
+        <h2>News</h2>
+        <a href="http://www.athenahealth.com/blog/2016/11/21/hackathon-followup">athenahealth Hackathon 2016 Grand Prize announcement for "Patients Like This"</a>
+        <br>
+        <a href="https://www.nasa.gov/home/hqnews/2011/oct/HQ_11-331_CCC_Payload.html">NASA Selects Technology Payloads For Reduced-Gravity Flights</a>
+
+        <h2>Contact</h2>
+
+        <ul>
+            <!-- <li>Email：<a href="mailto:{{ site.email }}" target="_top">{{ site.email }}</a></li> -->
+            <li>Email：cpawlows "at" mit.edu </li>
+            <li>GitHub：<a href="{{ site.github_url }}">{{ site.github_url }}</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/colin-pawlowski">https://www.linkedin.com/in/colin-pawlowski</a></li>
+        </ul>
+
+        <h2>Skills</h2>
+
+        {% if site.skill_ml_keywords %}
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Machine Learning</h3>
+            </div>
+            <div class="panel-body">
+                {% for keyword in site.skill_ml_keywords %}
+                <button class="btn btn-default" type="button">{{ keyword }}</button>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+
+        {% if site.skill_opt_keywords %}
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Optimization Software</h3>
+            </div>
+            <div class="panel-body">
+                {% for keyword in site.skill_opt_keywords %}
+                <button class="btn btn-default" type="button">{{ keyword }}</button>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+
+        {% if site.skill_software_keywords %}
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Programming Languages</h3>
+            </div>
+            <div class="panel-body">
+                {% for keyword in site.skill_software_keywords %}
+                <button class="btn btn-default" type="button">{{ keyword }}</button>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+
+        {% if site.skill_mobile_app_keywords %}
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Mobile Developer Keywords</h3>
+            </div>
+            <div class="panel-body">
+                {% for keyword in site.skill_mobile_app_keywords %}
+                <button class="btn btn-default" type="button">{{ keyword }}</button>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+
+        {% if site.skill_web_keywords %}
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Web Development</h3>
+            </div>
+            <div class="panel-body">
+                {% for keyword in site.skill_web_keywords %}
+                <button class="btn btn-default" type="button">{{ keyword }}</button>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+    </div>
+
+    <div class="col-md-4">
+        <div style="margin-top:50px"></div>
+        <br>
+        <img src="../assets/images/Rplot05.svg" style="width:100%;">
+        <div style="margin-top:30px"></div>
+        <img src="../assets/images/Rplot04.svg" style="width:100%;">
+        <!-- {% include sidebar-popular-repo.html %} -->
+        <font style="font-weight:bold;">Figure 1:</font> Machine learning methods in action on Fisher's classic <a href="https://archive.ics.uci.edu/ml/datasets/Iris" target="_blank">Iris data set</a>.
+        <div style="margin-top:30px"></div>
+        <img src="../assets/images/bag-of-words.png" style="width:100%;">
+        <font style="font-weight:bold;">Figure 2:</font> Bag-of-Words CART model to <a href="http://colinpawlowski.com/assets/files/script_2_complete.html" target="_blank">predict customer review scores</a> of Boston Airbnbs given raw text from customer comments.
+        <div style="margin-top:60px"></div>
+        <!-- <a href="http://julialang.org/"> -->
+            <img src="../assets/images/Julia_language.png" style="width:45%;">
+        <!-- </a> -->
+        &nbsp; &nbsp;
+        <!-- <a href="https://cran.r-project.org/"> -->
+            <img src="../assets/images/Rlogo.svg" style="width:45%;">
+        <!-- </a> -->
+    </div>
+    <!-- <br>
+    <div style="margin-top:500px">&nbsp;</div>
+    <br> -->
+</div>
+
+
 
