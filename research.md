@@ -7,16 +7,19 @@ no-post-nav: true
 ---
 
 ## Publications
-- D. Bertsimas, C. Pawlowski, Y. Zhuo. <a href="https://colin78.github.io/assets/files/OptImpute.pdf" target="_blank">"From predictive methods to missing data imputation: an optimization framework".</a>
+- D. Bertsimas, C. Pawlowski, Y. Zhuo. <a href="https://colin78.github.io/assets/files/OptImpute.pdf" target="_blank">"From Predictive Methods to Missing Data Imputation: An Optimization Framework."</a>
 To appear in JMLR, 2018.
-- D. Bertsimas, J. Dunn, C. Pawlowski, Y. Zhuo. <a href="https://colin78.github.io/assets/files/RobustClassification.pdf" target="_blank">"Robust Classification".</a>  To appear in INFORMS Journal on Optimization, 2018.
+- D. Bertsimas, J. Dunn, C. Pawlowski, A. Weinstein, Y. Zhuo, E. Chen, and A. Elfiky. "An Applied Informatics Decision Support Tool for Mortality Predictions in Cancer Patients."   To appear in JCO Clinical Cancer Informatics, 2018.
+- D. Bertsimas, J. Dunn, C. Pawlowski, Y. Zhuo. <a href="https://colin78.github.io/assets/files/RobustClassification.pdf" target="_blank">"Robust Classification."</a>  To appear in INFORMS Journal on Optimization, 2018.
 
 ## Presentations
+- "From Predictive Methods to Missing Data Imputation: An Optimization Approach." <a href="http://www.abstractsonline.com/pp8/#!/4182/presentation/7104" target="_blank">INFORMS 2017</a>
 - "Missing Data Imputation via a Modern Optimization Lens." <a href="http://www.abstractsonline.com/pp8/#!/4182/presentation/7104" target="_blank">INFORMS 2016</a>
 - "Robust Support Vector Machines." <a href="https://informs.emeetingsonline.com/emeetings/formbuilder/clustersessiondtl.asp?csnno=24168&mmnno=272&ppnno=90513" target="_blank">INFORMS 2015</a>
 - "Novel Properties of Deterministic and Stochastic SIR Models." <a href="http://jointmathematicsmeetings.org/amsmtgs/2160_abstracts/1096-vg-2688.pdf" target="_blank">JMM 2014</a>
 
 ## Teaching
+- Teaching Assistant for "Machine Learning via a Modern Optimization Lens" (15.097) at MIT Sloan School of Management, Spring 2018. <a href="https://colin78.github.io/assets/files/15-097-syllabus-2018.pdf" target="_blank">Syllabus</a>
 - Teaching Assistant for "The Analytics Edge" (15.071) at MIT Sloan School of Management, Spring 2017. <a href="https://colin78.github.io/assets/files/Syllabus-15071-Spring2017-template2.pdf" target="_blank">Syllabus</a>
 - Instructor for "Computing in Optimization and Statistics" (15.S60) at MIT Sloan School of Management, January 2017. <a href="https://philchodrow.github.io/cos_2017/" target="_blank">Course Website</a>
     - Topic of my segment: *Statistical Modeling and Machine Learning in R*
