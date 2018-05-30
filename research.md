@@ -20,6 +20,9 @@ To appear in JMLR, 2018.
 
 ## Teaching
 - Teaching Assistant for "Machine Learning via a Modern Optimization Lens" (15.097) at MIT Sloan School of Management, Spring 2018. <a href="https://colin78.github.io/assets/files/15-097-syllabus-2018.pdf" target="_blank">Syllabus</a>
+- Instructor for "Computing in Optimization and Statistics" (15.S60) at MIT Sloan School of Management, January 2018. <a href="https://philchodrow.github.io/cos_2018/" target="_blank">Course Website</a>
+    - Topic of my segment: *Statistical Modeling and Machine Learning*
+    - Prepared materials: <a href="https://colin78.github.io/assets/files/script_complete.R" target="_blank">Live coding session notes</a>
 - Teaching Assistant for "The Analytics Edge" (15.071) at MIT Sloan School of Management, Spring 2017. <a href="https://colin78.github.io/assets/files/Syllabus-15071-Spring2017-template2.pdf" target="_blank">Syllabus</a>
 - Instructor for "Computing in Optimization and Statistics" (15.S60) at MIT Sloan School of Management, January 2017. <a href="https://philchodrow.github.io/cos_2017/" target="_blank">Course Website</a>
     - Topic of my segment: *Statistical Modeling and Machine Learning in R*
