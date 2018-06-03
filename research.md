@@ -13,10 +13,10 @@ To appear in JMLR, 2018.
 - D. Bertsimas, J. Dunn, C. Pawlowski, Y. Zhuo. <a href="https://colin78.github.io/assets/files/RobustClassification.pdf" target="_blank">"Robust Classification."</a>  To appear in INFORMS Journal on Optimization, 2018.
 
 ## Presentations
-- "From Predictive Methods to Missing Data Imputation: An Optimization Approach." <a href="http://www.abstractsonline.com/pp8/#!/4182/presentation/7104" target="_blank">INFORMS 2017</a>
-- "Missing Data Imputation via a Modern Optimization Lens." <a href="http://www.abstractsonline.com/pp8/#!/4182/presentation/7104" target="_blank">INFORMS 2016</a>
+- "From Predictive Methods to Missing Data Imputation: An Optimization Approach." <a href="https://www.abstractsonline.com/pp8/#!/4471/presentation/12208" target="_blank">INFORMS 2017</a>
+- "Missing Data Imputation via a Modern Optimization Lens." <a href="https://www.abstractsonline.com/pp8/#!/4182/presentation/7104" target="_blank">INFORMS 2016</a>
 - "Robust Support Vector Machines." <a href="https://informs.emeetingsonline.com/emeetings/formbuilder/clustersessiondtl.asp?csnno=24168&mmnno=272&ppnno=90513" target="_blank">INFORMS 2015</a>
-- "Novel Properties of Deterministic and Stochastic SIR Models." <a href="http://jointmathematicsmeetings.org/amsmtgs/2160_abstracts/1096-vg-2688.pdf" target="_blank">JMM 2014</a>
+- "Novel Properties of Deterministic and Stochastic SIR Models." <a href="https://jointmathematicsmeetings.org/amsmtgs/2160_abstracts/1096-vg-2688.pdf" target="_blank">JMM 2014</a>
 
 ## Teaching Experience
 - Teaching Assistant for "Machine Learning via a Modern Optimization Lens" (15.097), Spring 2018. <a href="https://colin78.github.io/assets/files/15-097-syllabus-2018.pdf" target="_blank">Syllabus</a>
