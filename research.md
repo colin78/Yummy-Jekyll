@@ -8,8 +8,8 @@ no-post-nav: true
 
 ## Publications
 - D. Bertsimas, C. Pawlowski, Y. Zhuo. <a href="http://jmlr.org/papers/v18/17-073.html">"From Predictive Methods to Missing Data Imputation: An Optimization Framework."</a> JMLR, 2018.
-- D. Bertsimas, J. Dunn, C. Pawlowski, A. Weinstein, Y. Zhuo, E. Chen, and A. Elfiky. "An Applied Informatics Decision Support Tool for Mortality Predictions in Cancer Patients."   To appear in JCO Clinical Cancer Informatics, 2018.
-- D. Bertsimas, J. Dunn, C. Pawlowski, Y. Zhuo. <a href="https://colin78.github.io/assets/files/RobustClassification.pdf">"Robust Classification."</a>  To appear in INFORMS Journal on Optimization, 2018.
+- D. Bertsimas, J. Dunn, C. Pawlowski, A. Weinstein, Y. Zhuo, E. Chen, and A. Elfiky. <a href="https://ascopubs.org/doi/10.1200/CCI.18.00003">"Applied Informatics Decision Support Tool for Mortality Predictions in Patients With Cancer."</a> JCO Clinical Cancer Informatics, 2018.
+- D. Bertsimas, J. Dunn, C. Pawlowski, Y. Zhuo. <a href="https://colin78.github.io/assets/files/RobustClassification.pdf">"Robust Classification."</a> To appear in INFORMS Journal on Optimization, 2018.
 
 ## Presentations
 - "From Predictive Methods to Missing Data Imputation: An Optimization Approach." <a href="https://www.abstractsonline.com/pp8/#!/4471/presentation/12208">INFORMS 2017</a>
