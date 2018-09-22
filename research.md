@@ -25,7 +25,7 @@ no-post-nav: true
 - "The Analytics Edge" (15.071), Spring 2017. <a href="https://colin78.github.io/assets/files/Syllabus-15071-Spring2017-template2.pdf">Syllabus</a>
 - "Data, Models, and Decisions" (15.060), Fall 2015. <a href="https://colin78.github.io/assets/files/Syllabus-15060-Fall-2015.pdf">Syllabus</a>
 
-**Other**
+**Software Tools**
 - Instructor for "Computing in Optimization and Statistics" (15.S60), January 2018. <a href="https://philchodrow.github.io/cos_2018/">Course Website</a>
 - Instructor for "Computing in Optimization and Statistics" (15.S60), January 2017. <a href="https://philchodrow.github.io/cos_2017/">Course Website</a>
 
