@@ -83,7 +83,7 @@ analytics :
 
 
 # For about.html. Fell free to create your own!
-skill_ml_keywords: [SVM, Clustering, Missing Data Imputation, Natural Language Processing]
-skill_opt_keywords: [JuMP, Gurobi]
+skill_ml_keywords: [LASSO, SVM, Trees, Clustering, Missing Data Imputation, Natural Language Processing, Neural Networks, Boosting] #[Scikit Learn, MICE, Keras, Glmnet, XGBoost]# 
+# skill_opt_keywords: [JuMP, Gurobi]
 skill_software_keywords: [Julia, R, Python]
 # skill_web_keywords: [HTML, CSS, JS, PHP, Jekyll]
