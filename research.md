@@ -10,11 +10,12 @@ no-post-nav: true
 - D. Bertsimas, C. Pawlowski, Y. Zhuo. <a href="http://jmlr.org/papers/v18/17-073.html">"From Predictive Methods to Missing Data Imputation: An Optimization Approach."</a> JMLR, 2018.
 - D. Bertsimas, J. Dunn, C. Pawlowski, A. Weinstein, Y. Zhuo, E. Chen, A. Elfiky. <a href="https://ascopubs.org/doi/10.1200/CCI.18.00003">"Applied Informatics Decision Support Tool for Mortality Predictions in Patients With Cancer."</a> JCO Clinical Cancer Informatics, 2018.
 - D. Bertsimas, J. Dunn, C. Pawlowski, Y. Zhuo. <a href="https://colin78.github.io/assets/files/RobustClassification.pdf">"Robust Classification."</a> To appear in INFORMS Journal on Optimization, 2018.
-- D. Bertsimas, A. Orfanoudaki, C. Pawlowski, Y. Zhuo. "Missing Data Imputation for Clinical Covariates in Time Series." In preparation.
+- D. Bertsimas, A. Orfanoudaki, C. Pawlowski. "Imputation of Clinical Covariates in Time Series." To appear in NeurIPS ML4H Workshop, 2018.  
 - D. Bertsimas, C. Pawlowski. "Personalized Cancer Treatment from Genomic Data via Tensor Denoising." In preparation.
 
 
 ## Presentations
+- "Missing Data Imputation for Clinical Covariates with Time Series" <a href="http://www.abstractsonline.com/pp8/#!/4701/presentation/6677">INFORMS 2018</a>
 - "From Predictive Methods to Missing Data Imputation: An Optimization Approach." <a href="https://www.abstractsonline.com/pp8/#!/4471/presentation/12208">INFORMS 2017</a>
 - "Missing Data Imputation via a Modern Optimization Lens." <a href="https://www.abstractsonline.com/pp8/#!/4182/presentation/7104">INFORMS 2016</a>
 - "Robust Support Vector Machines." <a href="https://informs.emeetingsonline.com/emeetings/formbuilder/clustersessiondtl.asp?csnno=24168&mmnno=272&ppnno=90513">INFORMS 2015</a>
