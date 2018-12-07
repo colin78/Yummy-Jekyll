@@ -9,8 +9,8 @@ no-post-nav: true
 ## Papers
 - D. Bertsimas, C. Pawlowski, Y. Zhuo. <a href="http://jmlr.org/papers/v18/17-073.html">"From Predictive Methods to Missing Data Imputation: An Optimization Approach."</a> JMLR, 2018.
 - D. Bertsimas, J. Dunn, C. Pawlowski, A. Weinstein, Y. Zhuo, E. Chen, A. Elfiky. <a href="https://ascopubs.org/doi/10.1200/CCI.18.00003">"Applied Informatics Decision Support Tool for Mortality Predictions in Patients With Cancer."</a> JCO Clinical Cancer Informatics, 2018.
-- D. Bertsimas, J. Dunn, C. Pawlowski, Y. Zhuo. <a href="https://colin78.github.io/assets/files/RobustClassification.pdf">"Robust Classification."</a> To appear in INFORMS Journal on Optimization, 2018.
-- D. Bertsimas, A. Orfanoudaki, C. Pawlowski. "Imputation of Clinical Covariates in Time Series." To appear in NeurIPS ML4H Workshop, 2018.  
+- D. Bertsimas, A. Orfanoudaki, C. Pawlowski. <a href="https://arxiv.org/abs/1812.00418">"Imputation of Clinical Covariates in Time Series."</a> NeurIPS ML4H Workshop, 2018.  
+- D. Bertsimas, J. Dunn, C. Pawlowski, Y. Zhuo. <a href="https://colin78.github.io/assets/files/RobustClassification.pdf">"Robust Classification."</a> To appear in INFORMS Journal on Optimization, 2019.
 - D. Bertsimas, C. Pawlowski. "Personalized Cancer Treatment from Genomic Data via Tensor Denoising." In preparation.
 
 
